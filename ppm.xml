@@ -1,0 +1,21 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+    <title>PPM Overviews</title>
+    <itunes:author>Nikoloz Modebadze</itunes:author>
+    <description>Overviews of PPM Subjects</description>
+    <link></link>
+    <image>
+        <url>https://c.media-amazon.com/images/I/81imY16u8DL._SL1500_.jpg</url>
+        <title>The Flight of the Eisenstein</title>
+        <link>https://example.com/the-flight-of-the-eisenstein</link>
+    </image>
+    <itunes:image href="https://www.propertyjobs.co.uk/getasset/ea0de634-d19c-4599-a6bd-a039898c00ee/" />
+
+    <item>
+        <title>Midterm (Chapter 1-7)</title>
+        <description>The first 7 chapters for 2024-2025 Midterm</description>
+        <link>https://audio.jukehost.co.uk/C5GCexu90O7Rqy0o57dS2KysG6gIqERq</link>
+        <pubDate>Sun, 27 Apr 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode1-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/C5GCexu90O7Rqy0o57dS2KysG6gIqERq" type="audio/mpeg" length="26" />
+    </item>
